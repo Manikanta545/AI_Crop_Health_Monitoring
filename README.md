@@ -205,7 +205,3 @@ Thank you for reviewing this AI-Based Crop Health Monitoring project.
 This project demonstrates the application of Artificial Intelligence,
 Machine Learning, and Drone Multispectral Data for precision agriculture
 and crop stress detection.
-
-
-End of README
-===========================================================
