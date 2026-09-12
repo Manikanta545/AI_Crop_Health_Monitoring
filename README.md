@@ -1,4 +1,4 @@
-===========================================================
+
 AI-BASED CROP HEALTH MONITORING USING DRONE MULTISPECTRAL DATA
 ===========================================================
 
@@ -160,7 +160,7 @@ FILES INCLUDED
 crop_data.csv
 AI_Crop_Health_Monitoring.ipynb
 README.txt
-Project_Documentation.pdf (if available)
+Project_Documentation.pdf
 
 -----------------------------------------------------------
 FUTURE IMPROVEMENTS
@@ -185,17 +185,19 @@ for farmers. The developed system contributes to precision agriculture by
 enabling timely interventions, efficient resource utilization, and improved
 crop productivity.
 
-===========================================================
+
 AUTHOR
 ===========================================================
 
 Project Developed By:
 
 Name       : P. Manikanta
+
 Department : Artificial Intelligence & Machine Learning (AI & ML) with Drone Tech
+
 Project    : AI-Based Crop Health Monitoring Using Drone Multispectral Data
 
-===========================================================
+
 THANK YOU
 ===========================================================
 
